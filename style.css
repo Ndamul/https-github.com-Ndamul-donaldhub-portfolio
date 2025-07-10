@@ -1,0 +1,19 @@
+
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a.text-info {
+  color: #66ccff !important;
+}
+
+a.text-info:hover {
+  color: #3399ff !important;
+}
+
+.card {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
